@@ -1,0 +1,38 @@
+.container-form{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-end;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right:40px;
+    background-color:rgb(0, 153, 255);
+    color:white;
+}
+.input-text{
+       width:90%;
+       height: 50px;
+       border-radius: 5px;
+       color:rgb(0, 153, 255);
+}
+.add-boutton{
+    width: 80px;
+    height: 50px;
+    margin-top:10px;
+    border-radius: 5px;
+    background-color:rgb(0, 153, 255);
+    color:white;
+}
+.titre{
+    color:#838383;
+    text-align: center;
+}
+.completed-button{
+    border-radius: 5px;
+    margin:0px 15px 0px 15px ;
+}
+.delete-button{
+    border-radius: 5px;
+}
+.completed{
+  text-decoration: line-through;
+}

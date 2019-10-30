@@ -1,0 +1,16 @@
+
+.short-ligne{
+    width: 10%;
+}
+.container-logo-desc{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.logo{
+    align-items: center;
+    width:5%
+}
+.desc{
+    color:#838383;
+}
